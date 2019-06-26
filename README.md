@@ -30,6 +30,8 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 Describe any challenges encountered while building the app.
 
+It was challenging but rewarding using Android Studio for the first time and understanding the great deal of functionality that it has!
+
 ## License
 
     Copyright [yyyy] [name of copyright owner]
