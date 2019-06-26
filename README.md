@@ -22,7 +22,7 @@ The following **stretch** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-! [SimpleToDoRecordingOne](SimpleToDoRecordingOne.gif)
+[Overview](SimpleToDoRecordingOne.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
